@@ -1,0 +1,19 @@
+{
+  "name": "Etoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Etoo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.3",
+    "moment": "^2.26.0",
+    "weather-js": "^2.0.0",
+    "ytdl": "^1.3.2",
+    "ytdl-core": "^2.1.7"
+  }
+}
